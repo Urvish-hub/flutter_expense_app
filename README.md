@@ -1,16 +1,37 @@
-# flutter_application_1
+# Flutter Expense Tracker App 💸
 
-A new Flutter project.
+A Flutter-based mobile application for managing daily expenses with Firebase integration.  
+This project helps users track, add, view, and manage their expenses in an easy and organized way.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Add daily expenses
+- View expense list
+- Delete expenses
+- Clean and simple UI
+- Firebase Firestore database integration
+- Real-time data update
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- Firebase Firestore
+- Firebase Core
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📱 Screens
+- Splash Screen
+- Add Expense Screen
+- Expense List Screen
+
+---
+
+## 📂 Project Setup
+
+1. Clone the repository
+```bash
+git clone https://github.com/Urvish-hub/flutter_expense_app.git
