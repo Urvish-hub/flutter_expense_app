@@ -35,3 +35,14 @@ This project helps users track, add, view, and manage their expenses in an easy 
 1. Clone the repository
 ```bash
 git clone https://github.com/Urvish-hub/flutter_expense_app.git
+
+
+🔐 Firebase Configuration
+
+Create a Firebase project
+
+Enable Firestore Database
+
+Add google-services.json (Android)
+
+Configure Firebase using FlutterFire CLI
